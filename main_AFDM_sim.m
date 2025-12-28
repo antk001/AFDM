@@ -28,7 +28,7 @@
 %  [R1]. Bemani, Ali, Nassar Ksairi, and Marios Kountouris. "Affine frequency division multiplexing for next generation wireless communications." IEEE Transactions on Wireless Communications 22.11 (2023): 8214-8229.
 
 
-
+#新添加
 clear; clc; close all;
 rng(1)
 
